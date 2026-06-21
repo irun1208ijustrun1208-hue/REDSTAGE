@@ -1,10 +1,113 @@
 {
   "songs": [
     {
+      "name": "Kenshi Yonezu-IRISOUT",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Kenshi_Yonezu-IRISOUT.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "Kenshi Yonezu-Plazma",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Kenshi_Yonezu-Plazma.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "King Gnu - 飛行艇",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/King_Gnu_-.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "Mili - Fly, My Wings",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Mili_-_Fly_My_Wings.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "Mili - From a Place of Love",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Mili_-_From_a_Place_of_Love.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "Mili - Gone angels",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Mili_-_Gone_angels.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
       "name": "Mili-HERO",
       "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Mili-HERO.zip",
       "difficulties": [
-        "easy"
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "Mili-Iron Lotus",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Mili-Iron_Lotus.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "Mili-String Theocracy",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Mili-String_Theocracy.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
+      ]
+    },
+    {
+      "name": "Native Faith",
+      "url": "https://github.com/irun1208ijustrun1208-hue/REDSTAGE/releases/download/songs/Native_Faith.zip",
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard",
+        "master",
+        "hell"
       ]
     },
     {
@@ -13,7 +116,9 @@
       "difficulties": [
         "easy",
         "normal",
-        "hard"
+        "hard",
+        "master",
+        "hell"
       ]
     }
   ]
